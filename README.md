@@ -13,7 +13,7 @@ It's built for Android using Java and demonstrates basic Android development ski
 - Notifications for daily quotes (planned).
 
 ## Screenshots
-
+<img src="https://github.com/user-attachments/assets/55475157-d196-419b-ae94-e20806b6da3e" width="300" height="auto" />
 
 ## Installation
 Clone the repository:
