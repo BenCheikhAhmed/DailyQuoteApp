@@ -18,7 +18,7 @@ It's built for Android using Java and demonstrates basic Android development ski
 ## Installation
 Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/DailyQuoteApp.git](https://github.com/BenCheikhAhmed/DailyQuoteApp.git)
+   git clone https://github.com/BenCheikhAhmed/DailyQuoteApp.git
   ```
 
 ### Technologies Used
