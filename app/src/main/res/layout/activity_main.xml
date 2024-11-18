@@ -1,0 +1,28 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:gravity="center"
+    android:background="@color/white">
+
+    <TextView
+        android:id="@+id/textQuote"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Your daily quote will appear here!"
+        android:gravity="center"
+        android:textSize="18sp"
+        android:padding="16dp"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/buttonNewQuote"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Get New Quote"
+        android:padding="8dp"
+        android:layout_marginTop="16dp"
+        android:backgroundTint="@color/teal_700" />
+</LinearLayout>
